@@ -1,1 +1,1 @@
-# DeepFake-detection-project
+# DeepFake-Image-detection-project
